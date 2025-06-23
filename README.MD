@@ -1,12 +1,17 @@
 # Website Produk Sederhana
 
-Proyek ini dibuat oleh Edwin sebagai dasar awal. Sri dan Boby akan melanjutkan pengembangan fitur.
+Repositori ini berisi proyek toko online sederhana untuk latihan Git dan kerja tim.
 
-## Rencana Kontribusi
+## Anggota
+- Edwin
+- Sri (Fitur: Pencarian Produk)
+- Boby (Fitur: Filter / Kategori)
 
-- [x] Struktur awal dan daftar produk — (oleh Edwin)
-- [ ] Fitur pencarian produk — (oleh Sri)
-- [ ] Fitur filter/kategori produk — (oleh Boby)
+## Cara Menjalankan
+1. Clone repo
+2. Buka `index.html` di browser
 
-## Jalankan Proyek
-Cukup buka `index.html` di browser.
+## Cara Berkontribusi
+1. Buat branch baru: `fitur-nama`
+2. Push perubahan ke branch tersebut
+3. Buat Pull Request ke `main`
